@@ -1,0 +1,12 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"particle": "attocraft:blocks/furnace_atto_front",
+		"up": "attocraft:blocks/furnace_atto_active_top",
+		"down": "attocraft:blocks/furnace_atto_bottom",
+		"north": "attocraft:blocks/furnace_atto_active_front",
+		"east": "attocraft:blocks/furnace_atto_active_side",
+		"south": "attocraft:blocks/furnace_atto_active_side",
+		"west": "attocraft:blocks/furnace_atto_active_side"	
+	}
+}

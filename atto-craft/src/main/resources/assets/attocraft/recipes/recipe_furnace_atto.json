@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		" D ",
+		"DFD",
+		"SSS"
+	],
+	
+	"key": {
+		"D": { "item": "attocraft:dust_atto" },
+		"F": { "item": "minecraft:furnace" },
+		"S": { "item": "minecraft:stone_slab", "data": 0 }
+	},
+	
+	"result": {
+		"item": "attocraft:furnace_atto",
+		"count": 1
+	}
+}

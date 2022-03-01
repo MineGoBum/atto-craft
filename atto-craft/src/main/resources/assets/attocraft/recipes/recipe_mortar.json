@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"S",
+		"F",
+		"B"
+	],
+	
+	"key": {
+		"B": { "item": "minecraft:bowl" },
+		"S": { "item": "minecraft:stick" },
+		"F": { "item": "minecraft:flint" }
+	},
+	
+	"result": {
+		"item": "attocraft:utility_mortar",
+		"count": 1
+	}
+}

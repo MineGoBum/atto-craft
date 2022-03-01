@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"burning=false,facing=north": { "model": "attocraft:furnace_atto" },
+		"burning=false,facing=south": { "model": "attocraft:furnace_atto", "y":180 },
+		"burning=false,facing=east": { "model": "attocraft:furnace_atto", "y":90 },
+		"burning=false,facing=west": { "model": "attocraft:furnace_atto", "y":270 },
+		"burning=true,facing=north": { "model": "attocraft:furnace_atto_active" },
+		"burning=true,facing=south": { "model": "attocraft:furnace_atto_active", "y":180 },
+		"burning=true,facing=east": { "model": "attocraft:furnace_atto_active", "y":90 },
+		"burning=true,facing=west": { "model": "attocraft:furnace_atto_active", "y":270 }
+	}
+}

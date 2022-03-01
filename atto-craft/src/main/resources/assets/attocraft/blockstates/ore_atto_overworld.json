@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"variant=poor": {"model": "attocraft:ore_atto_overworld_poor" },
+		"variant=normal": {"model": "attocraft:ore_atto_overworld_normal" },
+		"variant=dense": {"model": "attocraft:ore_atto_overworld_dense" }
+	}
+}

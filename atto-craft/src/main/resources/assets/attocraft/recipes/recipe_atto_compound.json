@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+        " D ",
+        "DSD",
+        " D "
+	],
+	
+	"key": {
+        "S": { "item": "minecraft:sand" },
+        "D": { "item": "attocraft:dust_atto" }
+	},
+	
+	"result": {
+		"item": "attocraft:compound_atto",
+		"count": 4
+	}
+}

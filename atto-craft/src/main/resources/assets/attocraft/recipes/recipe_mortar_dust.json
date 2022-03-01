@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"MA"
+	],
+	
+	"key": {
+		"M": { "item": "attocraft:utility_mortar", "data": 32767 },
+		"A": { "item": "attocraft:item_atto" }
+	},
+	
+	"result": {
+		"item": "attocraft:dust_atto",
+		"count": 2
+	}
+}

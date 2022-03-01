@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern": [
+		"B"
+	],
+	
+	"key": {
+		"B": { "item": "attocraft:block_atto" }
+	},
+	
+	"result": {
+		"item": "attocraft:item_atto",
+		"count": 9
+	}
+}

@@ -1,0 +1,38 @@
+# ITEMS
+item.attocraft:item_atto.name=Atto Chunk
+item.attocraft:dust_atto.name=Atto Dust
+item.attocraft:powder_taint.name=Taint Powder
+item.attocraft:compound_atto.name=Atto Compound
+item.attocraft:ingot_atto_pure.name=Atto Ingot
+item.attocraft:ingot_atto_iron.name=Atto Infused Iron Ingot
+item.attocraft:ingot_atto_gold.name=Atto Infused Gold Ingot
+
+# FLUIDS
+fluid.attocraft:fluid_taint=Liquid Taint
+
+
+# FUELS
+item.attocraft:coal_atto_dirty.name=Atto & Coal
+item.attocraft:coal_atto.name=Atto Coal
+item.attocraft:coal_atto_pure.name=Pure Atto Coal
+
+
+# BLOCKS
+tile.attocraft:block_atto.name=Atto Block
+tile.attocraft:block_coal_atto.name=Atto Coal Block
+tile.attocraft:block_coal_atto_dirty.name=Atto & Coal Block
+tile.attocraft:block_coal_atto_pure.name=Pure Atto Coal Block
+
+# MACHINES
+tile.attocraft:furnace_atto.name=Atto Furnace
+
+# ORES
+tile.attocraft:ore_atto_overworld_poor.name=Poor Atto Ore
+tile.attocraft:ore_atto_overworld_normal.name=Atto Ore
+tile.attocraft:ore_atto_overworld_dense.name=Dense Atto Ore
+
+# UTILITIES
+item.attocraft:utility_mortar.name=Mortar
+
+# GUI
+itemGroup.attocraft:attocraft=Atto Craft
